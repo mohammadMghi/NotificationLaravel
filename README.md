@@ -1,2 +1,2 @@
 # NotificationLaravel
-system notification for extend , you can easy add your notification to project
+ notification system , you can easy add your code to project and extend project
